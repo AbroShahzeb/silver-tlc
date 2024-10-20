@@ -1,16 +1,24 @@
 {
   "files": {
-    "main.css": "/silver-tlc/static/css/main.f855e6bc.css",
-    "main.js": "/silver-tlc/static/js/main.41b0832f.js",
+    "main.css": "/silver-tlc/static/css/main.793792dd.css",
+    "main.js": "/silver-tlc/static/js/main.c50a74fd.js",
     "static/js/453.49414e3a.chunk.js": "/silver-tlc/static/js/453.49414e3a.chunk.js",
-    "static/media/logo.svg": "/silver-tlc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/authBanner.jpg": "/silver-tlc/static/media/authBanner.7ad49186daa77626a9c5.jpg",
+    "static/media/Poppins-ExtraLight.ttf": "/silver-tlc/static/media/Poppins-ExtraLight.333cb30c20e31999802a.ttf",
+    "static/media/Poppins-Light.ttf": "/silver-tlc/static/media/Poppins-Light.7641a0f76ca9ef6c252c.ttf",
+    "static/media/Poppins-Regular.ttf": "/silver-tlc/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Medium.ttf": "/silver-tlc/static/media/Poppins-Medium.673ed42382ab264e0bf5.ttf",
+    "static/media/Poppins-Bold.ttf": "/silver-tlc/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/Poppins-Black.ttf": "/silver-tlc/static/media/Poppins-Black.d8b850b920a5ef49d752.ttf",
+    "static/media/logo.svg": "/silver-tlc/static/media/logo.6f202e290988f16e9baac30dd888dec9.svg",
     "index.html": "/silver-tlc/index.html",
-    "main.f855e6bc.css.map": "/silver-tlc/static/css/main.f855e6bc.css.map",
-    "main.41b0832f.js.map": "/silver-tlc/static/js/main.41b0832f.js.map",
+    "static/media/dropdownArrow.svg": "/silver-tlc/static/media/dropdownArrow.9ac6fa77e6a21068b372c7bc1ac7cd2e.svg",
+    "main.793792dd.css.map": "/silver-tlc/static/css/main.793792dd.css.map",
+    "main.c50a74fd.js.map": "/silver-tlc/static/js/main.c50a74fd.js.map",
     "453.49414e3a.chunk.js.map": "/silver-tlc/static/js/453.49414e3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.41b0832f.js"
+    "static/css/main.793792dd.css",
+    "static/js/main.c50a74fd.js"
   ]
 }
